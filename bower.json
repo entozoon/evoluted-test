@@ -1,0 +1,12 @@
+{
+	"name": "evoluted-toggles",
+	"version": "0.0.1",
+	"ignore": [
+		".gitignore",
+		"bower.json",
+		"README.md"
+	],
+	"dependencies": {
+		"jquery": ">=1.9.1"
+	}
+}
